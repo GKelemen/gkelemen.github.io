@@ -3,7 +3,7 @@
 ### TECHNICAL WORK EXPERIENCE
 
 
-#### SDE I - Print on Demand Expansion (PODX) Team @ Amazon  
+#### SDE I - Print on Demand Expansion Team @ Amazon  
 _Sept 2022 - March 2023_
 
 - Deployed bug fix in proprietary application to correct VAT for more than 2.4MM international Print On Demand proofs and titles, projected cost savings of more than $600K.
@@ -14,7 +14,7 @@ _Sept 2022 - March 2023_
 - Led remote team through daily stand-ups, sprint demonstrations, and retrospective meetings as Scrum leader.
 - Took initiative on authoring team technical processes, fostering a culture of knowledge capture and sharing. Developed and consolidated technical documentation and team knowledge in a shared wiki, expediting onboarding and improving overall team performance.
 
-#### SDE Intern - Print on Demand (PODX) Expansion Team @ Amazon
+#### SDE Intern - Print on Demand Expansion Team @ Amazon
 _March - Aug 2022_
 
 - Migrated package to AWS Cloud Development Kit (CDK) as part of initiative to optimize development process by standardizing Infrastructure as Code deployment.
